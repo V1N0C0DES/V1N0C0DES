@@ -53,7 +53,6 @@
 
 ---
 
-<img align="left" alt="Arvin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arvz108&show_icons=true&hide_border=true" />
 
 [website]: https://arvint.tech
 [linkedin]: https://www.linkedin.com/in/at33ymo/
