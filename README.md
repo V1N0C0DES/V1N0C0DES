@@ -42,7 +42,6 @@
 <img align="left" alt="Ps" width="26px" src="https://1.bp.blogspot.com/-rZEqdjQT28w/XblbXvmrHAI/AAAAAAAAUD8/iHMDvIVriHcZKY4RHu4r3I4mGpn9jxs5QCLcBGAsYHQ/s1600/Adobe%2BPhotoshop%2B2020%2BFull%2Bversion.png" />
 <img align="left" alt="Ai" width="26px" src="https://www.labnol.org/images/2008/illustratoricon.png" />
 <img align="left" alt="Trello" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/trello-14-1175081.png" />
-<img align="left" alt="Linux" width="26px" src="https://i1.pngguru.com/preview/393/871/719/simply-styled-icon-set-731-icons-free-os-linux-penguin-illustration-png-clipart.jpg" />
 
 
 
